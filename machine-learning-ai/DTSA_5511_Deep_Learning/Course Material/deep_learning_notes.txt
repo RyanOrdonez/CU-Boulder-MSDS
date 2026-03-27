@@ -1,0 +1,13 @@
+Introduction to Deep Learning - Week 1 Notes
+
+1. Neural Networks Basics
+- Artificial neurons
+- Activation functions
+- Forward propagation
+- Backpropagation
+
+2. Key Concepts
+- Layers
+- Weights and biases
+- Loss functions
+- Gradient descent

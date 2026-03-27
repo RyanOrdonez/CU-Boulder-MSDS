@@ -1,0 +1,6 @@
+Deep Learning Week 3 Notes
+
+Topics covered:
+1. Recurrent Neural Networks
+2. LSTM Networks
+3. Sequential Data Processing

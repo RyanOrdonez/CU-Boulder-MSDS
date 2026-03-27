@@ -1,0 +1,6 @@
+Deep Learning Week 2 Notes
+
+Topics covered:
+1. Convolutional Neural Networks
+2. Image Processing
+3. Feature Detection
